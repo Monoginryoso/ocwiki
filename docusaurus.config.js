@@ -65,70 +65,49 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Original Characters Wiki',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
         },
-        items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
-        ],
+       
       },
       footer: {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: ' ',
             items: [
               {
-                label: 'Tutorial',
+                label: ' ',
                 to: '/docs/intro',
               },
             ],
           },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
+
           {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Email',
+                href: 'mailto:ghostpipe611@tutanota.com',
+              },
+              {
+                label: 'Twitter',
+                href: 'https://twitter.com/m_ginryoso',
+              },
+              {
+                label: 'Mastodon',
+                href: 'https://qoto.org/@m_ginryoso',
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/Monoginryoso',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `The content of this page is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license</a> unless otherwise stated. Built with <a href="https://docusaurus.io/">Docusaurus</a>.`,
       },
       prism: {
         theme: lightCodeTheme,
