@@ -68,7 +68,7 @@ const config = {
         title: 'Original Characters Wiki',
         logo: {
           alt: 'My Site Logo',
-          src: 'https://raw.githubusercontent.com/Monoginryoso/ocwiki/a9681cc0240243e8a4cc832206b8ebfd09138a20/build/img/logo.svg',
+          src: 'https://raw.githubusercontent.com/Monoginryoso/ocwiki/main/build/img/logo.png',
         },
        
       },
