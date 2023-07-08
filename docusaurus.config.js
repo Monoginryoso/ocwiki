@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'MonoGinryoso',
   tagline: 'OCs are cool',
-  favicon: 'img/favicon.ico',
+  favicon: 'https://raw.githubusercontent.com/Monoginryoso/ocwiki/bddd7ee1f8572087f0f50e089dca58ca4d1b8e74/build/img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://github.com',
