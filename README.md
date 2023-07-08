@@ -1,41 +1,7 @@
-# Website
+Original characters wiki of m_ginryoso. If you have any questions, please contact ghostpipe611@tutanota.com.
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+Based on [Docusaurus](https://github.com/facebook/docusaurus). The source code is licensed under the MIT License. The content in the site is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.
 
-### Installation
-
-```
-$ yarn
-```
-
-### Local Development
-
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Useful tutorial:
+- [GitHub After Dark: Deploying Docusaurus to GitHub Pages using GitHub Actions](https://jayrobwilliams.com/posts/2020/06/academic-website/) by Lars Gyrup Brink Nielsen
+- [Original README.md](https://stackblitz.com/github/facebook/docusaurus/tree/starter?file=README.md)
