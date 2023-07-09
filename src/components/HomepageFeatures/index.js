@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/mk.svg').default,
     description: (
       <>
-        placeholder
+        
       </>
     ),
   },
@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/ra.svg').default,
     description: (
       <>
-        placeholder
+        
       </>
     ),
   },
@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/pd.svg').default,
     description: (
       <>
-        placeholder
+        
       </>
     ),
   },
@@ -35,7 +35,7 @@ const FeatureList = [
     Svg: require('@site/static/img/cm.svg').default,
     description: (
       <>
-        placeholder
+        
       </>
     ),
   },
