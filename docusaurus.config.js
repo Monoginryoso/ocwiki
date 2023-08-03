@@ -70,7 +70,14 @@ const config = {
           alt: 'My Site Logo',
           src: 'https://raw.githubusercontent.com/Monoginryoso/ocwiki/334490619be1c9e3f8fe0c653fc05370273bfab5/build/img/logo.png',
         },
-       
+        items: [
+          {
+            type: 'docSidebar',
+            sidebarId: 'tutorialSidebar',
+            position: 'left',
+            label: 'Characters introduction',
+          },
+        ],
       },
       footer: {
         style: 'dark',
@@ -99,6 +106,10 @@ const config = {
               {
                 label: 'Mastodon',
                 href: 'https://qoto.org/@m_ginryoso',
+              },
+              {
+                label: 'Pixiv',
+                href: 'https://www.pixiv.net/users/96958189',
               },
               {
                 label: 'GitHub',

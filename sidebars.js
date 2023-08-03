@@ -30,4 +30,11 @@ const sidebars = {
    */
 };
 
-module.exports = sidebars;
+module.exports = {
+  tutorialSidebar: [
+    'mk',
+    'ra',
+    'pd',
+    'cm',
+  ],
+};
