@@ -5,7 +5,7 @@ sidebar_position: 3
 
 # Denarius Pinuer
 
-|個人資料圖片|https://raw.githubusercontent.com/Monoginryoso/ocwiki/dd4d83209a0d0d4829c5fa3a629a4aa7a7af2f3e/static/img/pd_profile.png|
+|個人資料圖片|<img src="https://raw.githubusercontent.com/Monoginryoso/ocwiki/0f9920c2d28c3c935f9594bad5a9c50fead69248/static/img/pd-profile.svg" width="60%" />|
 |:--:|:--:|
 |姓名|Denarius Pinuer|
 |原型|Pinus densiflora|
