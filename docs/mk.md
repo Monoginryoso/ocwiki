@@ -1,14 +1,14 @@
 ---
-sidebar_label: 'M.'
+sidebar_label: 'Kiri Mononobe'
 sidebar_position: 3
 ---
 
-# M.
+# Kiri Mononobe
 
 |個人資料圖片| |
 |:--:|:--:|
-|姓名| |
-|原型| |
+|姓名|Kiri Mononobe|
+|原型|Monotropastrum kirishimense|
 |性別| |
 |教育| |
 |重點研究領域| |

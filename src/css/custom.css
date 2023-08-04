@@ -51,8 +51,8 @@
   --ifm-color-info-dark: rgb(217, 119, 156);
   --ifm-color-info-darker: rgb(183, 175, 180);
   --ifm-color-info-darkest: rgb(143, 134, 138);
-  --ifm-color-info-contrast-background: #2d2022;
-  --ifm-color-info-contrast-foreground: #ffa1c0;
+  --ifm-color-info-contrast-background: rgb(45, 32, 34);
+  --ifm-color-info-contrast-foreground: rgb(255, 161, 192);
   --ifm-code-font-size: 95%;
   --ifm-color-white: #eaeaea;
   --ifm-color-black: #1b1b1d;

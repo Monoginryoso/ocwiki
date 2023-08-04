@@ -1,17 +1,17 @@
 ---
-sidebar_label: 'cm'
+sidebar_label: 'CrypSNN'
 sidebar_position: 3
 ---
 
-# cm
+# CrypSNN
 
-|個人資料圖片| |
+|界面形象| |
 |:--:|:--:|
-|姓名| |
+|全稱|Encrypted Spiking Neural Network-Based Generative Artificial Intelligence|
 
 <details>
   <summary>原理</summary>
-  Placeholder
+  基於加密SNN的生成式人工智能。
 </details>
 
 <details>

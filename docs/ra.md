@@ -1,14 +1,14 @@
 ---
-sidebar_label: 'R.'
+sidebar_label: 'Arvo Ru'
 sidebar_position: 3
 ---
 
-# R.
+# Arvo Ru
 
 |個人資料圖片| |
 |:--:|:--:|
-|姓名| |
-|原型| |
+|姓名|Arvo Ru|
+|原型|Russula alboareolata|
 |性別| |
 |教育| |
 |重點研究領域| |

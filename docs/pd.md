@@ -1,14 +1,14 @@
 ---
-sidebar_label: 'P.'
+sidebar_label: 'Denarius Pinuer'
 sidebar_position: 3
 ---
 
-# P.
+# Denarius Pinuer
 
 |個人資料圖片| |
 |:--:|:--:|
-|姓名| |
-|原型| |
+|姓名|Denarius Pinuer|
+|原型|Pinus densiflora|
 |性別| |
 |教育| |
 |重點研究領域| |
