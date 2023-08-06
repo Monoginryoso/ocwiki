@@ -5,3 +5,4 @@ Based on [Docusaurus](https://github.com/facebook/docusaurus). The source code i
 Useful tutorial:
 - [GitHub After Dark: Deploying Docusaurus to GitHub Pages using GitHub Actions](https://jayrobwilliams.com/posts/2020/06/academic-website/) by Lars Gyrup Brink Nielsen
 - [Original README.md](https://stackblitz.com/github/facebook/docusaurus/tree/starter?file=README.md)
+- [版面設定](https://from8to8.com/docs/category/%E7%89%88%E9%9D%A2%E8%A8%AD%E5%AE%9A/) by 朝八晚八
