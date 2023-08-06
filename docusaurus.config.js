@@ -11,7 +11,7 @@ const config = {
   favicon: 'https://raw.githubusercontent.com/Monoginryoso/ocwiki/bddd7ee1f8572087f0f50e089dca58ca4d1b8e74/build/img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://github.com',
+  url: 'https://monoginryoso.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/ocwiki/',
@@ -67,6 +67,7 @@ const config = {
         logo: {
           alt: 'My Site Logo',
           src: 'https://raw.githubusercontent.com/Monoginryoso/ocwiki/334490619be1c9e3f8fe0c653fc05370273bfab5/build/img/logo.png',
+          srcDark: 'https://raw.githubusercontent.com/Monoginryoso/ocwiki/334490619be1c9e3f8fe0c653fc05370273bfab5/build/img/logo.png'
         },
         items: [
           {
