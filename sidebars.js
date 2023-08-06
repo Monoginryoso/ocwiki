@@ -32,9 +32,14 @@ const sidebars = {
 
 module.exports = {
   tutorialSidebar: [
-    'mk',
-    'ra',
-    'pd',
-    'cm',
+    {
+      type: 'category',
+      label: 'Characters',
+      items: [    
+      'mk',
+      'ra',
+      'pd',
+      'cm',],
+    },
   ],
 };

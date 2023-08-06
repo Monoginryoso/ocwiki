@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'MonoGinryoso',
-  tagline: 'OCs are cool',
+  title: 'OC WIKI',
+  tagline: 'UNDER CONSTRUCTION',
   favicon: 'https://raw.githubusercontent.com/Monoginryoso/ocwiki/bddd7ee1f8572087f0f50e089dca58ca4d1b8e74/build/img/favicon.ico',
 
   // Set the production url of your site here
@@ -67,63 +67,73 @@ const config = {
         logo: {
           alt: 'My Site Logo',
           src: 'https://raw.githubusercontent.com/Monoginryoso/ocwiki/334490619be1c9e3f8fe0c653fc05370273bfab5/build/img/logo.png',
-          srcDark: 'https://raw.githubusercontent.com/Monoginryoso/ocwiki/334490619be1c9e3f8fe0c653fc05370273bfab5/build/img/logo.png'
+          srcDark: 'https://raw.githubusercontent.com/Monoginryoso/ocwiki/95035822ab421b10504b4e9611bd7fa97454a3f1/static/img/logo-dark.PNG'
         },
         items: [
           {
-            type: 'docSidebar',
+            type: 'dropdown',
             sidebarId: 'tutorialSidebar',
-            position: 'left',
+            position: 'right',
             label: 'Characters introduction',
+            items:[
+              {
+                label: 'Kiri Mononobe',
+                to: '/docs/mk'
+              },
+              {
+                label: 'Arvo Ru',
+                to: '/docs/ra'
+              },
+              {
+                label: 'Denarius Pinuer',
+                to: '/docs/pd'
+              },
+              {
+                label: 'CrypSNN',
+                to: '/docs/cm'
+              },
+            ]
           },
 
         ],
+        hideOnScroll: true,
       },
       footer: {
-        style: 'dark',
+        style: 'light',
         links: [
           {
-            title: ' ',
-            items: [
-              {
-                label: ' ',
-                to: '/docs/intro',
-              },
-            ],
+            label: 'Email',
+            href: 'mailto:ghostpipe611@tutanota.com',
           },
-
           {
-            title: 'More',
-            items: [
-              {
-                label: 'Email',
-                href: 'mailto:ghostpipe611@tutanota.com',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/m_ginryoso',
-              },
-              {
-                label: 'Mastodon',
-                href: 'https://qoto.org/@m_ginryoso',
-              },
-              {
-                label: 'Pixiv',
-                href: 'https://www.pixiv.net/users/96958189',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/Monoginryoso',
-              },
-            ],
+            label: 'Twitter',
+            href: 'https://twitter.com/m_ginryoso',
+          },
+          {
+            label: 'Mastodon',
+            href: 'https://qoto.org/@m_ginryoso',
+          },
+          {
+            label: 'Pixiv',
+            href: 'https://www.pixiv.net/users/96958189',
+          },
+          {
+            label: 'GitHub',
+            href: 'https://github.com/Monoginryoso',
           },
         ],
-        copyright: `The content of this page is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license</a> unless otherwise stated. Built with <a href="https://docusaurus.io/">Docusaurus</a>.`,
+        copyright: `The content of this page is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license</a> unless otherwise stated.<br>Built with <a href="https://docusaurus.io/">Docusaurus</a>.`,
       },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      docs:{
+        sidebar:{
+          hideable: true,
+          autoCollapseCategories: true,
+        }
+      }
     }),
 };
 
