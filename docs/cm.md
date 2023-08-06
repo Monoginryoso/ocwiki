@@ -8,6 +8,7 @@ sidebar_position: 3
 |界面形象| |
 |:--:|:--:|
 |全稱|Encrypted Spiking Neural Network-Based Generative Artificial Intelligence|
+|原型|*Cryptothallus mirabilis*|
 
 <details>
   <summary>原理</summary>

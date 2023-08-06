@@ -8,7 +8,7 @@ sidebar_position: 3
 |個人資料圖片|<img src="https://raw.githubusercontent.com/Monoginryoso/ocwiki/ad3702c402a3a4c74a930ab29260ed400c83f1d4/static/img/ra-profile.svg" width="60%" />|
 |:--:|:--:|
 |姓名|Arvo Ru|
-|原型|Russula alboareolata|
+|物種|*Russula alboareolata* subsp. *humanoid*|
 |性別| |
 |教育| |
 |重點研究領域| |

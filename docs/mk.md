@@ -8,7 +8,7 @@ sidebar_position: 3
 |個人資料圖片|<img src="https://raw.githubusercontent.com/Monoginryoso/ocwiki/9f6f9803a3c7e824a13b7a8b7acc34c8ec973e63/static/img/mk-profile.svg" width="60%" />|
 |:--:|:--:|
 |姓名|Kiri Mononobe|
-|原型|Monotropastrum kirishimense|
+|物種|*Monotropastrum kirishimense* subsp. *humanoid*|
 |性別| |
 |教育| |
 |重點研究領域| |
