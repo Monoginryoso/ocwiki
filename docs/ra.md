@@ -5,7 +5,7 @@ sidebar_position: 3
 
 # Arvo Ru
 
-|個人資料圖片|<img src="https://raw.githubusercontent.com/Monoginryoso/ocwiki/19a5d310c2cebc94eb155a881360f875207dd271/static/img/ra-profile.svg" width="60%" />|
+|個人資料圖片|<img src="https://raw.githubusercontent.com/Monoginryoso/ocwiki/1c3d4ca0598f92f0b67deee3f11ed7f4eeeb11f6/static/img/ra-profile.svg" width="60%" />|
 |:--:|:--:|
 |姓名|Arvo Ru|
 |原型|Russula alboareolata|
