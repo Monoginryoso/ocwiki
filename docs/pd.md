@@ -8,22 +8,21 @@ sidebar_position: 3
 |個人資料圖片|<img src="https://raw.githubusercontent.com/Monoginryoso/ocwiki/19a5d310c2cebc94eb155a881360f875207dd271/static/img/pd-profile.svg" width="60%" />|
 |:--:|:--:|
 |姓名|Denarius Pinuer|
-|物種|*Pinus densiflora* subsp. *humanoid*|
+|物種|*Pinus densiflora* var. *humanoid*|
 |性別| |
 |教育| |
-|重點研究領域| |
+|重點研究領域|神經科學——系統神經生物學|
 
-<details>
-  <summary>性格</summary>
+## 描述
   Placeholder
-</details>
 
-<details>
-  <summary>早期經歷</summary>
+## 早期經歷
   Placeholder
-</details>
+
+## 研究成果
+  Placeholder  
 
 <details>
-  <summary>研究成果</summary>
+  <summary>設計概念</summary>
   Placeholder
 </details>

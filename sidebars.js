@@ -34,12 +34,29 @@ module.exports = {
   tutorialSidebar: [
     {
       type: 'category',
-      label: 'Characters',
-      items: [    
-      'mk',
-      'ra',
-      'pd',
-      'cm',],
+      label: 'HPTA Institute',
+      items: [
+      'hpta',],
+    },
+    {
+      type: 'category',
+      label: 'Department of Cognitive Neuroscience and Brain-inspired Intelligence (DCNBI)',
+      items: [
+      'dcnbi',
+      {
+        type: 'category',
+        label: 'Personnel',
+        items: [
+        'mk',
+        'ra',
+        'pd',],
+      },
+      {
+        type: 'category',
+        label: 'Artificial Intelligence Engine',
+        items: [
+        'cm',],
+      }],
     },
   ],
 };

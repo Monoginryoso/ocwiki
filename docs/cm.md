@@ -9,13 +9,15 @@ sidebar_position: 3
 |:--:|:--:|
 |全稱|Encrypted Spiking Neural Network-Based Generative Artificial Intelligence|
 |原型|*Cryptothallus mirabilis*|
+|重點研究領域|神經基因組學|
 
-<details>
-  <summary>原理</summary>
+## 描述
   基於加密SNN的生成式人工智能。
-</details>
+
+## 研究成果
+  Placeholder  
 
 <details>
-  <summary>研究成果</summary>
+  <summary>設計概念</summary>
   Placeholder
 </details>

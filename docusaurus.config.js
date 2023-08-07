@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'OC WIKI',
-  tagline: '-UNDER CONSTRUCTION-',
+  title: 'Department of Cognitive Neuroscience and Brain-inspired Intelligence (DCNBI)',
+  tagline: ' ',
   favicon: 'https://raw.githubusercontent.com/Monoginryoso/ocwiki/bddd7ee1f8572087f0f50e089dca58ca4d1b8e74/build/img/favicon.ico',
 
   // Set the production url of your site here
@@ -63,7 +63,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Original Characters Wiki',
+        title: 'HPTA INSTITUTE',
         logo: {
           alt: 'My Site Logo',
           src: 'https://raw.githubusercontent.com/Monoginryoso/ocwiki/80b6eb7b42779189dd3de5e6f4a32b55a74930dc/static/img/logo.PNG',
@@ -74,7 +74,31 @@ const config = {
             type: 'dropdown',
             sidebarId: 'tutorialSidebar',
             position: 'right',
-            label: 'Characters introduction',
+            label: 'About HPTA',
+            items:[
+              {
+                label: 'Introduction of HPTA Institute',
+                to: '/docs/hpta'
+              },
+            ]
+          },
+          {
+            type: 'dropdown',
+            sidebarId: 'tutorialSidebar',
+            position: 'right',
+            label: 'About DCNBI',
+            items:[
+              {
+                label: 'Introduction of Department of Cognitive Neuroscience and Brain-inspired Intelligence',
+                to: '/docs/dcnbi'
+              },
+            ]
+          },
+          {
+            type: 'dropdown',
+            sidebarId: 'tutorialSidebar',
+            position: 'right',
+            label: 'Personnel',
             items:[
               {
                 label: 'Kiri Mononobe',
@@ -88,41 +112,43 @@ const config = {
                 label: 'Denarius Pinuer',
                 to: '/docs/pd'
               },
+            ]
+          },
+          {
+            type: 'dropdown',
+            sidebarId: 'tutorialSidebar',
+            position: 'right',
+            label: 'Artificial Intelligence Engine',
+            items:[
               {
                 label: 'CrypSNN',
                 to: '/docs/cm'
               },
             ]
           },
-
         ],
         hideOnScroll: true,
       },
       footer: {
         style: 'light',
         links: [
+
+          {
+            label: 'About the Author',
+            href: 'https://monoginryoso.github.io/',
+          },
           {
             label: 'Email',
             href: 'mailto:ghostpipe611@tutanota.com',
           },
-          {
-            label: 'Twitter',
-            href: 'https://twitter.com/m_ginryoso',
-          },
-          {
-            label: 'Mastodon',
-            href: 'https://qoto.org/@m_ginryoso',
-          },
-          {
-            label: 'Pixiv',
-            href: 'https://www.pixiv.net/users/96958189',
-          },
-          {
-            label: 'GitHub',
-            href: 'https://github.com/Monoginryoso',
-          },
         ],
-        copyright: `The content of this page is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license</a> unless otherwise stated.<br>Built with <a href="https://docusaurus.io/">Docusaurus</a>.`,
+        copyright: `<b>DISCLAIMER:</b> This is a work of fiction. Names, characters, places and incidents either are products of the author's imagination or are used fictitiously. Any resemblance to actual events or locales or persons, living or dead, is entirely coincidental.
+        <br>
+        
+        <br>
+        The content of this page is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license</a> unless otherwise stated.
+        <br>
+        Built with <a href="https://docusaurus.io/">Docusaurus</a>.`,
       },
       prism: {
         theme: lightCodeTheme,
