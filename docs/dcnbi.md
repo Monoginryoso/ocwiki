@@ -14,17 +14,11 @@ sidebar_position: 3
 | | |
 | | |
 
-<details>
-  <summary>簡介</summary>
+## 簡介
   Placeholder
-</details>
 
-<details>
-  <summary>研究團隊</summary>
+## 研究團隊
   Placeholder
-</details>
 
-<details>
-  <summary>研究成果</summary>
+## 研究成果
   Placeholder
-</details>
