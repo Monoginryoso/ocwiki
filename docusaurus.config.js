@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'OC WIKI',
-  tagline: 'UNDER CONSTRUCTION',
+  tagline: '-UNDER CONSTRUCTION-',
   favicon: 'https://raw.githubusercontent.com/Monoginryoso/ocwiki/bddd7ee1f8572087f0f50e089dca58ca4d1b8e74/build/img/favicon.ico',
 
   // Set the production url of your site here
