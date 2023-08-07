@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Department of Cognitive Neuroscience and Brain-inspired Intelligence (DCNBI)',
   tagline: ' ',
-  favicon: 'https://raw.githubusercontent.com/Monoginryoso/ocwiki/bddd7ee1f8572087f0f50e089dca58ca4d1b8e74/build/img/favicon.ico',
+  favicon: 'https://raw.githubusercontent.com/Monoginryoso/ocwiki/0bf07ffad17932374c550b9c172fcb20cdb3c5c8/build/img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://monoginryoso.github.io/',
@@ -66,8 +66,8 @@ const config = {
         title: 'HPTA INSTITUTE',
         logo: {
           alt: 'My Site Logo',
-          src: 'https://raw.githubusercontent.com/Monoginryoso/ocwiki/80b6eb7b42779189dd3de5e6f4a32b55a74930dc/static/img/logo.PNG',
-          srcDark: 'https://raw.githubusercontent.com/Monoginryoso/ocwiki/95035822ab421b10504b4e9611bd7fa97454a3f1/static/img/logo-dark.PNG'
+          src: 'https://raw.githubusercontent.com/Monoginryoso/ocwiki/0bf07ffad17932374c550b9c172fcb20cdb3c5c8/static/img/logo.PNG',
+          srcDark: 'https://raw.githubusercontent.com/Monoginryoso/ocwiki/0bf07ffad17932374c550b9c172fcb20cdb3c5c8/static/img/logo-dark.PNG'
         },
         items: [
           {
