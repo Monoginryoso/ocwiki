@@ -66,8 +66,8 @@ const config = {
         title: ' ',
         logo: {
           alt: 'My Site Logo',
-          src: 'https://raw.githubusercontent.com/Monoginryoso/ocwiki/0bf07ffad17932374c550b9c172fcb20cdb3c5c8/static/img/logo.PNG',
-          srcDark: 'https://raw.githubusercontent.com/Monoginryoso/ocwiki/0bf07ffad17932374c550b9c172fcb20cdb3c5c8/static/img/logo-dark.PNG'
+          src: 'https://raw.githubusercontent.com/Monoginryoso/ocwiki/f718fda7a55225aa6283916a707760c700b4dba9/static/img/logo.PNG',
+          srcDark: 'https://raw.githubusercontent.com/Monoginryoso/ocwiki/f718fda7a55225aa6283916a707760c700b4dba9/static/img/logo-dark.PNG'
         },
         items: [
           {
