@@ -11,7 +11,7 @@ sidebar_position: 3
 |物種|*Russula alboareolata* var. *humanoid*|
 |性別| |
 |教育| |
-|重點研究領域|神經科學——計算神經生物學|
+|重點研究領域|神經科學——計算神經科學|
 
 ## 描述
   Placeholder

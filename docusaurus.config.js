@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Department of Cognitive Neuroscience and Brain-inspired Intelligence (DCNBI)',
+  title: 'Department of Neuroscience and Brain-inspired Intelligence (DNBI)',
   tagline: ' ',
   favicon: 'https://raw.githubusercontent.com/Monoginryoso/ocwiki/0bf07ffad17932374c550b9c172fcb20cdb3c5c8/build/img/favicon.ico',
 
@@ -63,7 +63,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'HPTA INSTITUTE',
+        title: ' ',
         logo: {
           alt: 'My Site Logo',
           src: 'https://raw.githubusercontent.com/Monoginryoso/ocwiki/0bf07ffad17932374c550b9c172fcb20cdb3c5c8/static/img/logo.PNG',
@@ -77,7 +77,7 @@ const config = {
             label: 'About HPTA',
             items:[
               {
-                label: 'Introduction of HPTA Institute',
+                label: 'Introduction of HPTA Institute of Biotechnology',
                 to: '/docs/hpta'
               },
             ]
@@ -86,11 +86,11 @@ const config = {
             type: 'dropdown',
             sidebarId: 'tutorialSidebar',
             position: 'right',
-            label: 'About DCNBI',
+            label: 'About DNBI',
             items:[
               {
-                label: 'Introduction of Department of Cognitive Neuroscience and Brain-inspired Intelligence',
-                to: '/docs/dcnbi'
+                label: 'Introduction of Department of Neuroscience and Brain-inspired Intelligence',
+                to: '/docs/dnbi'
               },
             ]
           },

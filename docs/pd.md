@@ -11,7 +11,7 @@ sidebar_position: 3
 |物種|*Pinus densiflora* var. *humanoid*|
 |性別| |
 |教育| |
-|重點研究領域|神經科學——系統神經生物學|
+|重點研究領域|神經科學——認知神經科學|
 
 ## 描述
   Placeholder

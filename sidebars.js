@@ -34,15 +34,15 @@ module.exports = {
   tutorialSidebar: [
     {
       type: 'category',
-      label: 'HPTA Institute',
+      label: 'HPTA Institute of Biotechnology',
       items: [
       'hpta',],
     },
     {
       type: 'category',
-      label: 'Department of Cognitive Neuroscience and Brain-inspired Intelligence (DCNBI)',
+      label: 'Department of Neuroscience and Brain-inspired Intelligence (DNBI)',
       items: [
-      'dcnbi',
+      'dnbi',
       {
         type: 'category',
         label: 'Personnel',
