@@ -63,11 +63,16 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
+        
         title: ' ',
         logo: {
           alt: 'My Site Logo',
           src: 'https://raw.githubusercontent.com/Monoginryoso/ocwiki/f718fda7a55225aa6283916a707760c700b4dba9/static/img/logo.PNG',
-          srcDark: 'https://raw.githubusercontent.com/Monoginryoso/ocwiki/f718fda7a55225aa6283916a707760c700b4dba9/static/img/logo-dark.PNG'
+          srcDark: 'https://raw.githubusercontent.com/Monoginryoso/ocwiki/f718fda7a55225aa6283916a707760c700b4dba9/static/img/logo-dark.PNG',
+          target: '_self',
+          width: 32,
+          height: 32,
+          className: 'custom-navbar-logo-class',
         },
         items: [
           {

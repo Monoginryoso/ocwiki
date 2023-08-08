@@ -9,7 +9,7 @@ sidebar_position: 3
 |:--:|:--:|
 |全稱|Encrypted Spiking Neural Network-Based Generative Artificial Intelligence|
 |原型|*Cryptothallus mirabilis*|
-|重點研究領域|神經基因組學|
+|主要功能|基因組測序、蛋白質結構預測、<font color="#965252">~~論文代寫~~</font>、<font color="#57455e">~~神奇海螺~~</font>、<font color="#6779a2">~~地下城主~~</font>|
 
 ## 描述
   基於加密SNN的生成式人工智能。

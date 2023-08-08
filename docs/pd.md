@@ -5,7 +5,7 @@ sidebar_position: 3
 
 # Denarius Pinuer
 
-|個人資料圖片|<img src="https://raw.githubusercontent.com/Monoginryoso/ocwiki/19a5d310c2cebc94eb155a881360f875207dd271/static/img/pd-profile.svg" width="60%" />|
+|個人資料圖片|<img src="https://raw.githubusercontent.com/Monoginryoso/ocwiki/44adbc78832afc6575106a937c19e06c4e31424f/static/img/pd-profile.svg" width="60%" />|
 |:--:|:--:|
 |姓名|Denarius Pinuer|
 |物種|*Pinus densiflora* var. *humanoid*|
@@ -23,6 +23,6 @@ sidebar_position: 3
   Placeholder  
 
 <details>
-  <summary>設計概念</summary>
+  <summary><font color="#57455e">作者對於此經過計劃的創作行爲的瞭解，簡而言之，就是</font>設計概念</summary>
   Placeholder
 </details>

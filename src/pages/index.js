@@ -26,7 +26,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`OC Wiki`}
+      title={`Homepage`}
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>
