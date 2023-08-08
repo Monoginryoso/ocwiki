@@ -7,7 +7,7 @@ sidebar_position: 3
 >HPTA 生物技術研究所
 >>Hypothesis, Prediction, Testing, Analysis
 
-|標誌| |
+|標誌||<img src="https://raw.githubusercontent.com/Monoginryoso/ocwiki/18caed71814a48b64c704f92ca0261e2bcdcda90/static/img/hpta.svg" width="60%" />|
 |:--:|:--:|
 |類型|非營利性獨立研究機構|
 |成立時間| |
