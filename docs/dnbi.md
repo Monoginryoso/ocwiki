@@ -12,7 +12,7 @@ sidebar_position: 3
 |負責人|[[REDACTED]](/docs/plaster)|
 
 ## 簡介
-  Placeholder
+  從古至今，人類對自身的認知功能倍感興趣。從個人的後設認知（metacognition）能力出發，為解析人腦的運行機制，無數專家對此展開了各方面的研究，並收穫許多知識。  
 
 ## 研究方向
   ### 認知神經科學
