@@ -5,7 +5,7 @@ sidebar_position: 3
 
 # CrypSNN
 
-|界面形象|<img src="https://raw.githubusercontent.com/Monoginryoso/ocwiki/52ed340b9a0b884a45e057bbc08a608a4aab0be8/static/img/cm-profile.svg" width="60%" />|
+|界面形象|<img src="https://raw.githubusercontent.com/Monoginryoso/ocwiki/77a99e77e06a089b9d856df9aeca9e8d692f23d1/static/img/cm-profile.svg" width="60%" />|
 |:--:|:--:|
 |全稱|Encrypted Spiking Neural Network-Based Generative Artificial Intelligence|
 |原型|*Cryptothallus mirabilis*|
