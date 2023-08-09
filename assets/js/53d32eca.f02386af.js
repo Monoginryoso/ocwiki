@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkocwiki=self.webpackChunkocwiki||[]).push([[8373],{7887:l=>{l.exports=JSON.parse('{"label":"hello","permalink":"/ocwiki/blog/tags/hello","allTagsPath":"/ocwiki/blog/tags","count":2}')}}]);
