@@ -9,6 +9,7 @@ sidebar_position: 3
 |:--:|:--:|
 |姓名|Denarius Pinuer|
 |物種|*Pinus densiflora* var. *humanoid*|
+|身高（cm）|179.7|
 |性別| |
 |教育| |
 |重點研究領域|神經科學——認知神經科學|

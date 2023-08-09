@@ -9,6 +9,7 @@ sidebar_position: 3
 |:--:|:--:|
 |姓名|Arvo Ru|
 |物種|*Russula alboareolata* var. *humanoid*|
+|身高（cm）|161.3|
 |性別| |
 |教育| |
 |重點研究領域|神經科學——計算神經科學|

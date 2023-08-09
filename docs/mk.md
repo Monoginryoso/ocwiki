@@ -9,6 +9,7 @@ sidebar_position: 3
 |:--:|:--:|
 |姓名|Kiri Mononobe|
 |物種|*Monotropastrum kirishimense* var. *humanoid*|
+|身高（cm）|167.8|
 |性別| |
 |教育| |
 |重點研究領域|神經科學——分子神經科學|

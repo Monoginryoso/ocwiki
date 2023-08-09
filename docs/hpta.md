@@ -11,7 +11,7 @@ sidebar_position: 3
 |:--:|:--:|
 |類型|非營利性獨立研究機構|
 |成立時間|19██年6月11日|
-|地理位置| |
+|地理位置|University City, Lurenberg, Fluẞerde, Listenbourg[^1]|
 |人員數|3██|
 |目標|生物技術研究|
 
@@ -35,3 +35,7 @@ sidebar_position: 3
   位於一樓。菜品種類繁多，且融合世界各地風味。另設有純素食及純肉食專區。人員普遍評價為「<font color="#965252">難吃</font>」「<font color="#6779a2">不如咖啡店</font>」。
   ### 咖啡店
   位於G層。提供各品類咖啡、三明治及薯條。設有待用咖啡（caffè sospeso）服務，以便經濟困難的顧客憑待用券免費享用餐點。
+
+
+## Footnotes
+[^1]: 基於虛構國家 [Listenbourg](https://en.wikipedia.org/wiki/Listenbourg)，University City 為私設。
