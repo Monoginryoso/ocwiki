@@ -38,4 +38,4 @@ sidebar_position: 3
 
 
 ## Footnotes
-[^1]: 基於虛構國家 [Listenbourg](https://en.wikipedia.org/wiki/Listenbourg)，University City 為私設。
+[^1]: 基於虛構國家 [Listenbourg](https://en.wikipedia.org/wiki/Listenbourg)，University City 為二次創作。
