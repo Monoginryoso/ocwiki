@@ -15,19 +15,23 @@ sidebar_position: 3
 <tr>
     <td rowspan="4" align="center">教育<br/></td>
     <td align="center">PhD</td>
+    <td align="center">PhD</td>
 </tr>
 <tr>
+    <td align="center">PsyM</td>
     <td align="center">PsyM</td>
 </tr>
 <tr>
     <td align="center">BA</td>
+    <td align="center">BA</td>
 </tr>
 <tr>
-    <td align="center">&emsp;&emsp;&emsp;&emsp;General Secondary Education &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Atom College &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</td>
+    <td align="center">General Secondary Education</td>
+    <td align="center">Atom College</td>
 </tr>
 <tr>
     <td align="center">重點研究領域</td>
-    <td align="center">神經科學——認知神經科學</td>
+    <td colspan="2" align="center">神經科學——認知神經科學</td>
 </tr>
 </table>
 
