@@ -20,6 +20,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Monoginryoso', // Usually your GitHub org/user name.
   projectName: 'ocwiki', // Usually your repo name.
+  trailingSlash: false,
   deploymentBranch: "gh-pages",
 
   onBrokenLinks: 'throw',
