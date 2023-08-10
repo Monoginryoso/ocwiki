@@ -10,9 +10,20 @@ sidebar_position: 3
 |姓名|Kiri Mononobe|
 |物種|*Monotropastrum kirishimense* var. *humanoid*|
 |身高（cm）|167.8|
-|性別| |
-|教育| |
-|重點研究領域|神經科學——分子神經科學|
+|性別|X 性別——無性|
+<table>
+<tr>
+    <td rowspan="2" align="center">教育<br/></td>
+    <td align="center">MSc</td>
+</tr>
+<tr>
+    <td align="center">&emsp;&emsp;&emsp; BSc &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Division of Biological Sciences, University of Callafida &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</td>
+</tr>
+<tr>
+    <td align="center">重點研究領域</td>
+    <td align="center">神經科學——分子神經科學</td>
+</tr>
+</table>
 
 ## 描述
   Placeholder

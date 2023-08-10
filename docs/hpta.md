@@ -11,7 +11,7 @@ sidebar_position: 3
 |:--:|:--:|
 |類型|非營利性獨立研究機構|
 |成立時間|19██年6月11日|
-|地理位置|University City, Lurenberg, Fluẞerde, Listenbourg[^1]|
+|地理位置|University city, Santhiago, Callafida, Merakin|
 |人員數|3██|
 |目標|生物技術研究|
 
@@ -38,4 +38,4 @@ sidebar_position: 3
 
 
 ## Footnotes
-[^1]: 基於虛構國家 [Listenbourg](https://en.wikipedia.org/wiki/Listenbourg)，University City 為二次創作。
+
