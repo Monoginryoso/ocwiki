@@ -15,19 +15,19 @@ sidebar_position: 3
 <tr>
     <td rowspan="4" align="center">教育<br/></td>
     <td align="center">PhD</td>
-    <td align="center">PhD</td>
+    <td align="center">Department of Cognitive Neuroscience, University of Cantaprivian (20██-Present)</td>
 </tr>
 <tr>
-    <td align="center">PsyM</td>
-    <td align="center">PsyM</td>
+    <td align="center">MPsych</td>
+    <td align="center">Department of Psychological and Behavioural Sciences, University of Cantaprivian (20██-20██)</td>
 </tr>
 <tr>
-    <td align="center">BA</td>
-    <td align="center">BA</td>
+    <td align="center">BSc</td>
+    <td align="center">Department of Psychological and Behavioural Sciences, University of Cantaprivian (20██-20██)</td>
 </tr>
 <tr>
     <td align="center">General Secondary Education</td>
-    <td align="center">Atom College</td>
+    <td align="center">Atom College (20██-20██)</td>
 </tr>
 <tr>
     <td align="center">重點研究領域</td>

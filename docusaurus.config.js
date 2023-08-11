@@ -144,7 +144,7 @@ const config = {
             href: 'mailto:ghostpipe611@tutanota.com',
           },
         ],
-        copyright: `<b>DISCLAIMER:</b> This is a work of fiction. Names, characters, places and incidents either are products of the author's imagination or are used fictitiously. Any resemblance to actual events or locales or persons, living or dead, is entirely coincidental.
+        copyright: `<b>DISCLAIMER:</b> This is a work of fiction. Names, characters, places and incidents either are products of the author's imagination or are used fictitiously. No identification with actual persons (living or deceased), places, buildings, and products is intended or should be inferred.
         <br>
         
         <br>

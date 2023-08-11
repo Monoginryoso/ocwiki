@@ -15,11 +15,11 @@ sidebar_position: 3
 <tr>
     <td rowspan="2" align="center">教育<br/></td>
     <td align="center">MSc</td>
-    <td align="center">MSc</td>
+    <td align="center">Department of Neuroscience, University of Callafida (20██-Present)</td>
 </tr>
 <tr>
     <td align="center">BEng</td>
-    <td align="center">BEng</td>
+    <td align="center">Department of Computer Science, City Universal College (20██-20██)</td>
 </tr>
 <tr>
     <td align="center">重點研究領域</td>
