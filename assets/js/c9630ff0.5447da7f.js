@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkocwiki=self.webpackChunkocwiki||[]).push([[7249],{6765:o=>{o.exports=JSON.parse('{"permalink":"/ocwiki/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
