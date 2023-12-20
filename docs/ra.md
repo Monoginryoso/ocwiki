@@ -5,7 +5,7 @@ sidebar_position: 3
 
 # Arvo Ru
 
-|個人資料圖片|<img src="https://raw.githubusercontent.com/Monoginryoso/ocwiki/44adbc78832afc6575106a937c19e06c4e31424f/static/img/ra-profile.svg" width="60%" />|
+|個人資料圖片|<img src="https://raw.githubusercontent.com/Monoginryoso/ocwiki/main/static/img/ra-profile.svg" width="60%" />|
 |:--:|:--:|
 |姓名|Arvo Ru|
 |物種|*Russula alboareolata* var. *humanoid*|
@@ -38,6 +38,6 @@ sidebar_position: 3
   Placeholder  
 
 <details>
-  <summary><font color="#965252">乂卍㊣煞氣a</font>設計概念<font color="#965252">㊣卍乂</font></summary>
+  <summary>設計概念</summary>
   Placeholder
 </details>
