@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Department of Neuroscience and Brain-inspired Intelligence (DNBI)',
-  tagline: ' ',
+  tagline: 'The 145 Research Group',
   favicon: 'https://raw.githubusercontent.com/Monoginryoso/ocwiki/0bf07ffad17932374c550b9c172fcb20cdb3c5c8/build/img/favicon.ico',
 
   // Set the production url of your site here
@@ -73,6 +73,13 @@ const config = {
         },
         items: [
           {
+            sidebarId: 'tutorialSidebar',
+            position: 'right',
+            label: 'Worldview',
+            to: '/docs/worldview'
+          },
+ 
+          {
             type: 'dropdown',
             sidebarId: 'tutorialSidebar',
             position: 'right',
@@ -91,8 +98,12 @@ const config = {
             label: 'About DNBI',
             items:[
               {
-                label: 'Introduction of Department of Neuroscience and Brain-inspired Intelligence',
+                label: 'Department of Neuroscience and Brain-inspired Intelligence',
                 to: '/docs/dnbi'
+              },
+              {
+                label: '145 Research Group',
+                to: '/docs/145'
               },
             ]
           },

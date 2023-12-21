@@ -5,14 +5,14 @@ sidebar_position: 3
 
 # HPTA Institute of Biotechnology
 >HPTA 生物技術研究所
->>Hypothesis, Prediction, Testing, Analysis
+>>“Hypothesis, Prediction, Testing, Analysis”
 
 |標誌|<img src="https://raw.githubusercontent.com/Monoginryoso/ocwiki/18caed71814a48b64c704f92ca0261e2bcdcda90/static/img/hpta.svg" width="60%" />|
 |:--:|:--:|
 |類型|非營利性獨立研究機構|
 |成立時間|20██年6月11日|
-|地理位置|University city, Santhiago, Callafida, Merakin|
-|人員數|3██|
+|地理位置|University city, Santhiago, Callafida, M██████|
+|人員數|4██|
 |目標|生物技術研究|
 
 ## 歷史

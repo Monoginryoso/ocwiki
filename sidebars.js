@@ -33,6 +33,11 @@ const sidebars = {
 module.exports = {
   tutorialSidebar: [
     {
+      type: 'doc',
+      id: 'worldview',
+      label: 'worldview',
+    },
+    {
       type: 'category',
       label: 'HPTA Institute of Biotechnology',
       items: [
@@ -43,6 +48,7 @@ module.exports = {
       label: 'Department of Neuroscience and Brain-inspired Intelligence (DNBI)',
       items: [
       'dnbi',
+      '145',
       {
         type: 'category',
         label: 'Personnel',

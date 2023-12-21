@@ -8,8 +8,8 @@ sidebar_position: 3
 
 |標誌|<img src="https://raw.githubusercontent.com/Monoginryoso/ocwiki/f718fda7a55225aa6283916a707760c700b4dba9/static/img/dnbi.svg" width="80%" />|
 |:--:|:--:|
-|人員數|4|
-|負責人|[[REDACTED]](/docs/plaster)|
+|人員數|5█|
+|負責人| |
 
 ## 簡介
   從古至今，人類對自身的認知功能倍感興趣。從個人的後設認知（metacognition）能力出發，為解析人腦的運行機制，無數專家對此展開了各方面的研究，並收穫許多知識。
@@ -23,15 +23,7 @@ sidebar_position: 3
   Placeholder
 
 ## 研究團隊
-### 認知神經科學
-  - [Denarius Pinuer](/docs/pd)
-### 分子神經科學
-  - [Kiri Mononobe](/docs/mk)
-### 計算神經科學
-  - [Arvo Ru](/docs/ra)
-### "AI for Science"
-  - [CrypSNN](/docs/cm)
-
+### [145 Research Group](/docs/145)
 
 ## 研究成果
   Placeholder
