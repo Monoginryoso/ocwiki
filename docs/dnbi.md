@@ -6,7 +6,7 @@ sidebar_position: 3
 # Department of Neuroscience and Brain-inspired Intelligence (DNBI)
 >神經科學與類腦智能研究部門
 
-|標誌|<img src="https://raw.githubusercontent.com/Monoginryoso/ocwiki/f718fda7a55225aa6283916a707760c700b4dba9/static/img/dnbi.svg" width="80%" />|
+||<img src="https://raw.githubusercontent.com/Monoginryoso/ocwiki/f718fda7a55225aa6283916a707760c700b4dba9/static/img/dnbi.svg" width="80%" />|
 |:--:|:--:|
 |人員數|5█|
 |負責人| |

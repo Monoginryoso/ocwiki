@@ -7,7 +7,7 @@ sidebar_position: 3
 >HPTA 生物技術研究所
 >>“Hypothesis, Prediction, Testing, Analysis”
 
-|標誌|<img src="https://raw.githubusercontent.com/Monoginryoso/ocwiki/18caed71814a48b64c704f92ca0261e2bcdcda90/static/img/hpta.svg" width="60%" />|
+||<img src="https://raw.githubusercontent.com/Monoginryoso/ocwiki/18caed71814a48b64c704f92ca0261e2bcdcda90/static/img/hpta.svg" width="60%" />|
 |:--:|:--:|
 |類型|非營利性獨立研究機構|
 |成立時間|20██年6月11日|
@@ -15,8 +15,12 @@ sidebar_position: 3
 |人員數|4██|
 |目標|生物技術研究|
 
-## 歷史
-  Placeholder
+## 簡介
+HPTA 生物技術研究所是一個致力於前沿生物技術研究與應用的非盈利組織。
+
+作為新興的研究組織，HPTA 研究所的使命是通過創新的科學方法和跨領域合作，推動生物技術領域的發展。團隊由來自不同專業背景的科學家、工程師和醫學專家組成，共同致力於解決當今社會面臨的重大健康挑戰。
+
+HPTA 研究所致力於開發生物醫學產品、生物製藥和生物技術解決方案，並將這些技術應用於改善人類的生活質量和健康水平。HPTA 研究所將堅持卓越的標準，在基礎研究和應用研究方面不斷追求突破性的創新。
 
 ## 部門
   ### 合成與系統生物學研究部門（DSSB）

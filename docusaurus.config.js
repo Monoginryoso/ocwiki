@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Department of Neuroscience and Brain-inspired Intelligence (DNBI)',
+  title: 'Department of Neuroscience and Brain-inspired Intelligence',
   tagline: 'The 145 Research Group',
   favicon: 'https://raw.githubusercontent.com/Monoginryoso/ocwiki/0bf07ffad17932374c550b9c172fcb20cdb3c5c8/build/img/favicon.ico',
 
