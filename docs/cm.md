@@ -27,10 +27,7 @@ sidebar_position: 3
 ## 研究成果
   Placeholder  
 
-<details>
-  <summary>設計概念</summary>
-  Placeholder
-</details>
+
 
 ## Footnotes
 [^1]: Meng, Q., Xiao, M., Yan, S., Wang, Y., Lin, Z., &amp; Luo, Z.-Q. (2022). Training high-performance low-latency spiking neural networks by differentiation on Spike representation. *2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*. https://doi.org/10.1109/cvpr52688.2022.01212 
