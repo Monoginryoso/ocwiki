@@ -8,9 +8,11 @@
 :root {
   --ifm-color-primary: #6f82ae;
   --ifm-background-color: #eaeaea;
-  --ifm-color-secondary: #777;
-  --ifm-color-primary-dark: #5c6c8e;
-  --ifm-color-primary-darker: #576687;
+  --ifm-background-surface-color: #eaeaea;
+  --ifm-color-secondary: #6c6c6c;
+  --ifm-color-gray-900: #353535;
+  --ifm-color-primary-dark: #aaaaaa;
+  --ifm-color-primary-darker: #353535;
   --ifm-color-primary-darkest: #48546f;
   --ifm-color-primary-light: #7886a7;
   --ifm-color-primary-lighter: #808dac;
@@ -39,9 +41,9 @@
   --ifm-color-primary: #8897f1;
   --ifm-background-color: #1b1b1d;
   --ifm-background-surface-color: #1b1b1d;
-  --ifm-color-secondary: #95a0b7;
-  --ifm-color-primary-dark: #d16a8c;
-  --ifm-color-primary-darker: #cd5d82;
+  --ifm-color-secondary: #9ba8c5;
+  --ifm-color-primary-dark: #6678a4;
+  --ifm-color-primary-darker: #b9e0f4;
   --ifm-color-primary-darkest: #bb3a65;
   --ifm-color-primary-light: #e1a0b6;
   --ifm-color-primary-lighter: #e5adc0;

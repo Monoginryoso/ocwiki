@@ -11,7 +11,3 @@ Placeholder
 ## 早期經歷
   Placeholder 
 
-<details>
-  <summary>設計概念</summary>
-  Placeholder
-</details>

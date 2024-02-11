@@ -23,7 +23,7 @@ sidebar_position: 3
   Placeholder
 
 ## 研究團隊
-### [145 Research Group](/docs/145)
+### [145 Research Group](/docs/145.md)
 
 ## 研究成果
   Placeholder

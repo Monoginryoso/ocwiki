@@ -37,7 +37,3 @@ sidebar_position: 3
 ## 研究成果
   Placeholder  
 
-<details>
-  <summary>設計概念</summary>
-  Placeholder
-</details>
