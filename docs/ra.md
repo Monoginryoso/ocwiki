@@ -10,7 +10,7 @@ sidebar_position: 3
 |姓名|Arvo Ru|
 |物種|*Russula alboareolata* var. *humanoid*|
 |身高（cm）|161.3|
-|性別|X 性別——無性|
+|性別|無|
 <table>
 <tr>
     <td rowspan="2" align="center">教育<br/></td>

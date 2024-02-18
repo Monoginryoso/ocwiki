@@ -29,7 +29,7 @@ HPTA 研究所致力於開發生物醫學產品、生物製藥和生物技術解
   Department of Molecular Genetics and Epigenetics
   ### 藥理與毒理學研究部門（DPT）
   Department of Pharmacology and Toxicology
-  ### [神經科學與類腦智能研究部門（DNBI）](/docs/dnbi)
+  ### [神經科學與類腦智能研究部門（DNBI）](/docs/dnbi.md)
   Department of Neuroscience and Brain-inspired Intelligence
   ### 臨床試驗倫理委員會（CECT）
   Committee on Ethics in Clinical Trials
