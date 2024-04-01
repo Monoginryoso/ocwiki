@@ -28,11 +28,4 @@ sidebar_position: 3
 </table>
 
 ## 描述
-  Placeholder
-
-## 早期經歷
-  Placeholder
-
-## 研究成果
-  Placeholder  
 
