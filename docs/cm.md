@@ -26,12 +26,8 @@ sidebar_position: 3
 - 節能的生成式人工智能：[^3]
   - 與傳統的生成式預訓練模型不同，採用SNN算法的語言模型能夠以更低的運算成本訓練。SNN神經元在非激活狀態下保持靜默，且脈衝訊號為二進制，減少了計算量，比起一般的深度學習方法更爲高效和簡潔。
 
-## 研究成果
-  Placeholder  
 
 
-
-## Footnotes
 [^1]: Meng, Q., Xiao, M., Yan, S., Wang, Y., Lin, Z., &amp; Luo, Z.-Q. (2022). Training high-performance low-latency spiking neural networks by differentiation on Spike representation. *2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*. https://doi.org/10.1109/cvpr52688.2022.01212 
 [^2]: Andrew T. (2017, March 17). Building Safe A.I.: A Tutorial for Encrypted Deep Learning. *i am trask*. http://iamtrask.github.io/
 [^3]: Zhu, R., Zhao, Q., Li, G., Eshraghian J. K. (2023). SpikeGPT: Generative Pre-trained Language Model with Spiking Neural Networks. https://doi.org/10.48550/arXiv.2302.13939
