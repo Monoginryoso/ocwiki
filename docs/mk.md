@@ -10,7 +10,7 @@ sidebar_position: 3
 |姓名|Kiri Mononobe|
 |物種|*Monotropastrum kirishimense* var. *humanoid*|
 |身高（cm）|167.8|
-|性別|無|
+|性別|/|
 <table>
 <tr>
     <td rowspan="2" align="center">教育<br/></td>
@@ -23,9 +23,13 @@ sidebar_position: 3
 </tr>
 <tr>
     <td align="center">重點研究領域</td>
-    <td colspan="2" align="center">神經科學——分子神經科學</td>
+    <td colspan="2" align="center">神經科學——神經生物學・認知神經生理學</td>
 </tr>
 </table>
 
 ## 描述
+負責細胞/動物實驗及顯微成像。
 
+臉上經常掛著同樣的笑容，會迴避需要高強度社交的場合。
+
+對重複的工作內容不感到枯燥。

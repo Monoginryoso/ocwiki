@@ -10,7 +10,7 @@ sidebar_position: 3
 |姓名|Denarius Pinuer|
 |物種|*Pinus densiflora* var. *humanoid*|
 |身高（cm）|179.7|
-|性別|無|
+|性別|/|
 <table>
 <tr>
     <td rowspan="4" align="center">教育<br/></td>
@@ -36,11 +36,8 @@ sidebar_position: 3
 </table>
 
 ## 描述
-  Placeholder
+負責神經造影研究及腦電信號處理。
 
-## 早期經歷
-  Placeholder
+對於專業以外的知識涉獵異常廣泛，努力提升自己的競爭力。
 
-## 研究成果
-  Placeholder  
-
+深夜仍會無視時差參加線上學術會議。

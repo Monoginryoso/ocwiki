@@ -10,7 +10,7 @@ sidebar_position: 3
 |姓名|Arvo Ru|
 |物種|*Russula alboareolata* var. *humanoid*|
 |身高（cm）|161.3|
-|性別|無|
+|性別|/|
 <table>
 <tr>
     <td rowspan="2" align="center">教育<br/></td>
@@ -29,11 +29,9 @@ sidebar_position: 3
 
 
 ## 描述
-  Placeholder
+負責計算建模及實驗數據的進一步分析。
 
-## 早期經歷
-  Placeholder
+日常渾水摸魚，總是設法降低他人對自己的期望。
 
-## 研究成果
-  Placeholder  
+思維十分跳躍，工作效率兩極化。
 

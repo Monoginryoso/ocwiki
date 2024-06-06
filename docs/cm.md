@@ -14,6 +14,8 @@ sidebar_position: 3
 ## 描述
   CrypSNN係由神經科學及類腦智能研究部門（Department of Neuroscience and Brain-inspired Intelligence ，下文簡稱DNBI）研發，基於加密SNN的生成式人工智能（Encrypted Spiking Neural Network-Based Generative Artificial Intelligence）。
 
+  似乎比起一般的通用模型更加冷漠。
+
 特點：
 - 高效的脈衝神經網路：[^1]
   - 該人工智能採用由神經科學啟發的脈衝神經網絡（Spiking Neural Network，下文簡稱SNN）模型，能夠模擬生物神經系統的運作模式。模型的訓練方式為在已訓練的人工神經網路（Artificial Neural Network）的基礎上，使之轉換為SNN。神經元的發放頻率經過時間編碼，其計算中存在子可微映射（Sub-differentiable mapping）。通過反向傳播算法，並將向量運算轉換成脈衝訊號，有效改善由脈衝訊號的不可微分性質導致的訓練效率低下。
