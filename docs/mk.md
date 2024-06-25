@@ -36,4 +36,4 @@ sidebar_position: 3
 
 ## 角色設計表
 
-<img src=" "/>
+<img src="https://raw.githubusercontent.com/Monoginryoso/ocwiki/b6cb7b5f14a4ec61ce3b96feed17d21eccb07a83/static/img/mk_three_views.PNG"/>
