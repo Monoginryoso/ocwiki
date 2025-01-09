@@ -122,7 +122,7 @@ const config = {
                 to: '/docs/ra'
               },
               {
-                label: 'Denarius Pinuer',
+                label: 'Denarius Pineau',
                 to: '/docs/pd'
               },
             ]

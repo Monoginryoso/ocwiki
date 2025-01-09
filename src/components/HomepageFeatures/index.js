@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/pd.svg').default,
     description: (
       <font size="4">
-        <strong><a href="docs/pd"><code>‧ Denarius Pinuer ‧</code></a></strong>
+        <strong><a href="docs/pd"><code>‧ Denarius Pineau ‧</code></a></strong>
       </font>
     ),
   },

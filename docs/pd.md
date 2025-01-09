@@ -1,13 +1,13 @@
 ---
-sidebar_label: 'Denarius Pinuer'
+sidebar_label: 'Denarius Pineau'
 sidebar_position: 3
 ---
 
-# Denarius Pinuer
+# Denarius Pineau
 
 |個人資料圖片|<img src="https://raw.githubusercontent.com/Monoginryoso/ocwiki/main/static/img/pd-profile.svg" width="60%" />|
 |:--:|:--:|
-|姓名|Denarius Pinuer|
+|姓名|Denarius Pineau|
 |物種|*Pinus densiflora* var. *humanoid*|
 |身高（cm）|179.7|
 |性別|/|
