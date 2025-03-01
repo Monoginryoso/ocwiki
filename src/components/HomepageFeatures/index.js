@@ -7,7 +7,7 @@ const FeatureList = [
     title: ' ',
     Svg: require('@site/static/img/mk.svg').default,
     description: (
-      <font size="4">
+      <font size="3">
         <strong><a href="docs/mk"><code>‧ Kiri Mononobe ‧</code></a></strong>
       </font>
     ),
@@ -16,7 +16,7 @@ const FeatureList = [
     title: ' ',
     Svg: require('@site/static/img/ra.svg').default,
     description: (
-      <font size="4">
+      <font size="3">
         <strong><a href="docs/ra"><code>‧ Arvo Ru ‧</code></a></strong>
       </font>
     ),
@@ -25,7 +25,7 @@ const FeatureList = [
     title: ' ',
     Svg: require('@site/static/img/pd.svg').default,
     description: (
-      <font size="4">
+      <font size="3">
         <strong><a href="docs/pd"><code>‧ Denarius Pineau ‧</code></a></strong>
       </font>
     ),
@@ -34,7 +34,7 @@ const FeatureList = [
     title: ' ',
     Svg: require('@site/static/img/cm.svg').default,
     description: (
-      <font size="4">
+      <font size="3">
         <strong><a href="docs/cm"><code>‧ CrypSNN ‧</code></a></strong>
       </font>
     ),
