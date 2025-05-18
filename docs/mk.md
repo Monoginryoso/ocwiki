@@ -5,7 +5,7 @@ sidebar_position: 3
 
 # Kiri Mononobe
 
-|個人資料圖片|<img src="https://raw.githubusercontent.com/Monoginryoso/ocwiki/a0eb092020a86289a21fe25417833bc3fc5360b7/static/img/mk-profile.PNG" width="60%" />|
+|個人資料圖片|<img src="https://raw.githubusercontent.com/Monoginryoso/ocwiki/b4ffd5d719135dc5c50d271030818e819035f523/static/img/mk-profile.png" width="60%" />|
 |:--:|:--:|
 |姓名|Kiri Mononobe|
 |物種|*Monotropastrum kirishimense* var. *humanoid*|
