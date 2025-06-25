@@ -152,7 +152,7 @@ const config = {
           },
           {
             label: 'Email',
-            href: 'mailto:ghostpipe611@tutanota.com',
+            href: 'mailto:monoginryoso@tutamail.com',
           },
         ],
         copyright: `<b>DISCLAIMER:</b> This is a work of fiction. Names, characters, places and incidents either are products of the author's imagination or are used fictitiously. No identification with actual persons (living or deceased), places, buildings, and products is intended or should be inferred.
